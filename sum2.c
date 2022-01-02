@@ -3,7 +3,7 @@
 sum2() {
    int a, b, sum;
  
-   printf("\nEnter two no: ");
+   printf("Enter two no:\n ");
    scanf("%d %d", &a, &b);
  
    sum = a + b;
